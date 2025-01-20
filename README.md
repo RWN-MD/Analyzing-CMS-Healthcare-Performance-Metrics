@@ -28,8 +28,8 @@ Understanding how patient volume affects healthcare performance is crucial for o
 - **`CRISP_DM_Udacity_Project_Notebook.ipynb`**: Jupyter Notebook containing the complete analysis, including data preprocessing, exploratory analysis, modeling, and visualization.
 - **`CRISP_DM_Udacity_Project.py`**: Python script version of the notebook for streamlined execution.
 
-### Blog Post
-- **`Balancing Patient Volume and Performance in Healthcare: A Data-Driven Perspective.md`**: Blog post summarizing the findings, featuring key visualizations and insights for healthcare stakeholders.
+### 'Blog_Post.md'
+- **Balancing Patient Volume and Performance in Healthcare: A Data-Driven Perspective**: Blog post summarizing the findings, featuring key visualizations and insights for healthcare stakeholders.
 
 ### Figures
 All figures used in the analysis and blog are stored in Repository:
