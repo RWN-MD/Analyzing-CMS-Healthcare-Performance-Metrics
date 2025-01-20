@@ -32,7 +32,7 @@ Understanding how patient volume affects healthcare performance is crucial for o
 - **`Balancing Patient Volume and Performance in Healthcare: A Data-Driven Perspective.md`**: Blog post summarizing the findings, featuring key visualizations and insights for healthcare stakeholders.
 
 ### Figures
-All figures used in the analysis and blog are stored in the `BlogFigures` directory:
+All figures used in the analysis and blog are stored in Repository:
 - **`BlogFigures/BlogFigure1.png`**: Performance trends across measures by patient volume.
 - **`BlogFigures/BlogFigure2.png`**: Measures most impacted by patient volume.
 - **`BlogFigures/BlogFigure3.png`**: Actual vs. predicted performance rates for key measures.
